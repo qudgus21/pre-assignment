@@ -1,4 +1,4 @@
-# 1. 쇼핑몰 메인화면 클론 (store)
+# 1. 쇼핑몰 메인화면 클론 - 11번가 (store)
 
 </br>
 
@@ -14,7 +14,7 @@
 
 </br>
 
-![store](./images/tictactoe.png)
+![tictactoe](./images/tictactoe.png)
 
 </br>
 </br>
@@ -25,3 +25,5 @@
 # 3. nodejs (learnyounode)
 
 </br>
+
+![learnyounode](./images/learnyounode.png)
