@@ -1,0 +1,78 @@
+.etc {
+  padding-top: 50px;
+}
+
+.etc img {
+  width: 132px;
+  height: 50px;
+}
+
+.etc > .logo_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.etc > .logo_box > .logos {
+  display: flex;
+}
+
+.etc > .logo_box > .logos > li {
+  margin: 16px;
+}
+
+.etc .menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.etc .menu > ul {
+  display: flex;
+  background-color: #fcfcfc;
+  width: 70%;
+  height: 252px;
+}
+
+.etc .menu > ul > li {
+  width: 25%;
+  border: 1px solid rgb(238, 238, 238);
+}
+
+.etc .menu .item > h3 {
+  margin: 0 0 16px 0;
+  font-size: 17px;
+  color: #111;
+  font-weight: bold;
+  padding: 33px 0 0 39px;
+}
+
+.etc .menu .item > ul {
+  padding: 0 0 30px 39px;
+}
+
+.etc .menu .item > ul > li {
+  font-size: 16px;
+  line-height: 32px;
+  color: gray;
+}
+
+.etc .notice {
+  margin: 50px 0 0 0;
+  padding-bottom: 50px;
+  width: 1250px;
+}
+
+.etc .notice {
+  color: grey;
+  position: relative;
+  left: 265px;
+}
+
+.etc .notice > :first-child {
+  font-size: 17px;
+  color: black;
+  font-weight: bold;
+}

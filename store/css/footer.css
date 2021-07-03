@@ -1,0 +1,139 @@
+footer nav {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid rgb(226, 226, 226);
+  border-bottom: 1px solid rgb(226, 226, 226);
+}
+
+footer nav ul {
+  font-size: 14px;
+  color: #333;
+  position: relative;
+  left: 50px;
+}
+
+footer nav ul li {
+  float: left;
+  margin: 0 0 0 20px;
+}
+
+footer .select {
+  position: relative;
+  right: 65px;
+}
+
+footer .select .item {
+  position: relative;
+  width: 175px;
+  height: 36px;
+  padding: 10px 10px 10px 10px;
+  font-size: 14px;
+  color: #111;
+  border: 1px solid #ccc;
+  text-align: left;
+  margin-right: 10px;
+}
+
+footer .info {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+footer .info > .left {
+  position: relative;
+  left: 55px;
+}
+
+footer .info .title {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+footer .rule {
+  margin: 30px 0 30px 0;
+}
+
+footer .rule > span {
+  color: black;
+  border: 1px solid rgb(179, 179, 179);
+  padding: 5px;
+  margin-right: 6px;
+}
+
+footer .copy {
+  color: rgb(209, 209, 209);
+  margin-bottom: 30px;
+}
+
+footer .images {
+  display: flex;
+}
+
+footer .images > div {
+  border: 1px solid rgb(207, 207, 207);
+  margin-right: 20px;
+}
+
+footer .images .l {
+  width: 108px;
+  height: 36px;
+}
+
+footer .images .l img {
+  width: 108px;
+  height: 36px;
+}
+
+footer .images .d {
+  width: 53px;
+  height: 36px;
+}
+
+footer .images .s img {
+  width: 53px;
+  height: 36px;
+}
+
+footer .right {
+  position: relative;
+  right: 70px;
+}
+
+footer .right .head {
+  margin-bottom: 20px;
+}
+
+footer .right .title {
+  color: black;
+  font-size: 14px;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+footer .right .num {
+  font-weight: bold;
+  color: red;
+  font-size: 14px;
+}
+
+footer .cen {
+  margin: 10px 0 40px 0;
+  color: black;
+}
+
+footer .center {
+  color: black;
+  margin-top: 30px;
+  font-size: 14px;
+}
+
+footer .center > span {
+  margin-right: 30px;
+}

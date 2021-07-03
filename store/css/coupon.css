@@ -1,0 +1,29 @@
+.coupon > .event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 50px 0;
+}
+
+.coupon > .event img {
+  width: 605px;
+  height: 220px;
+}
+
+.coupon > .event .right {
+  margin-left: 10px;
+  position: relative;
+  left: 30px;
+}
+
+.coupon > .banner {
+  width: 100%;
+  background-color: #c3e4fe;
+  text-align: center;
+
+  margin-bottom: 58px;
+}
+
+.coupon > .banner img {
+  height: 214px;
+}

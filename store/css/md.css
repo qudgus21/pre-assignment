@@ -1,0 +1,74 @@
+.md {
+  background-color: #f6f7fb;
+  padding-top: 58px;
+  padding-bottom: 50px;
+  width: 100%;
+}
+
+.md > h2 {
+  font-weight: bold;
+  font-size: 24px;
+  position: relative;
+  left: 260px;
+  margin-bottom: 30px;
+}
+
+.md > .fc {
+  display: flex;
+  justify-content: center;
+}
+
+.md .select {
+  display: flex;
+}
+
+.md .select > li {
+  width: 105px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+}
+
+.md .select img {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 12px;
+}
+
+.md .select .name {
+  font-size: 14px;
+}
+
+.md .md_btn {
+  position: relative;
+  bottom: 73px !important;
+}
+
+.md .md_products {
+  position: relative;
+  right: 15px !important;
+}
+
+.md .new_product {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.md .new_product div {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 56px;
+  padding: 0 30px 0 30px;
+  font-size: 17px;
+  color: #111;
+  border: 1px solid #ccc;
+  border-radius: 28px;
+  background: #fff;
+}

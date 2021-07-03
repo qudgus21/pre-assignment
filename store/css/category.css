@@ -1,0 +1,20 @@
+.category > ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.category > ul > li {
+  text-align: center;
+  margin: 55px 0 55px 0;
+}
+
+.category > ul > li > img {
+  width: 90px;
+  height: 90px;
+  margin: 0 12px 24px 12px;
+}
+
+.category > ul > li > div {
+  font-size: 15px;
+}

@@ -1,0 +1,56 @@
+.gnb {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+
+.gnb > ul {
+  display: flex;
+}
+
+.gnb > .list {
+  position: relative;
+  top: 4px;
+  left: 45px;
+}
+
+.gnb > .list li {
+  margin-right: 23px;
+  color: #111;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.gnb > .list img {
+  width: 70px;
+  position: relative;
+  bottom: 8px;
+}
+
+.gnb > .user {
+  position: relative;
+  right: 45px;
+  top: 2px;
+}
+
+.gnb > .user > li {
+  margin: 0 14px;
+  color: #111;
+}
+
+.gnb > .user img {
+  width: 50px;
+  position: relative;
+  bottom: 8px;
+}
+
+.gnb > .user span {
+  color: #dbdbdb;
+}
+
+.gnb > .user .off {
+  font-weight: bold;
+  color: #999999;
+}

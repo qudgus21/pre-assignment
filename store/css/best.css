@@ -1,0 +1,127 @@
+.best > .head {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.best > .head > .info {
+  display: flex;
+}
+
+.best > .head > .info > h2 {
+  font-weight: bold;
+  font-size: 24px;
+  position: relative;
+  right: 90px;
+}
+
+.best > .head > .info > ul {
+  display: flex;
+  font-size: 20px;
+  position: relative;
+  right: 60px;
+}
+
+.best > .head > .more {
+  color: #8a8a8a;
+  position: relative;
+  left: 90px;
+}
+
+.best > ul {
+  display: flex;
+  justify-content: center;
+}
+
+.best > ul > li {
+  margin: 0 14px;
+}
+
+.best ul > .product {
+  border: 1px solid #f3f3f3;
+  width: 224px;
+  height: 345px;
+}
+
+.best ul > .product img {
+  width: 224px;
+  height: 222px;
+}
+
+.best .product .title {
+  font-size: 15px;
+  padding: 0px 25px 0px 25px;
+  line-height: 1.5;
+  word-break: break-all;
+}
+
+.best .product .price {
+  padding: 0px 25px 0px 25px;
+}
+
+.best .pn {
+  color: red;
+  font-size: 22px;
+}
+
+.best .pp {
+  color: red;
+  font-size: 16px;
+}
+
+.best .pv {
+  font-size: 22px;
+}
+
+.best .pw {
+  font-size: 15px;
+  position: relative;
+  bottom: 2px;
+  font-weight: normal;
+}
+
+.best .chance {
+  font-weight: bold;
+  font-size: 24px;
+  position: relative;
+  left: 270px;
+  margin-bottom: 20px;
+}
+
+.best .best_before_btn {
+  position: relative;
+  bottom: 260px !important;
+  left: 240px !important;
+}
+
+.best .best_next_btn {
+  position: relative;
+  bottom: 300px !important;
+  left: 1480px !important;
+}
+
+.best .manage {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.best .manage > * {
+  margin: 13px;
+}
+
+.best .manage img {
+  display: inline-block;
+  width: 605px;
+  height: 302px;
+}
+
+.best .manage h2 {
+  display: inline-block;
+  font-size: 24px;
+  color: #111;
+  vertical-align: middle;
+  font-weight: bold;
+  margin: 60px 0 20px 0;
+}
